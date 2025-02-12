@@ -2,8 +2,11 @@
 # **Business Intelligence project: Strategic Insights for a Bike Share Company**
 Business intelligence analysis of a Bike share company bike usage using ETL, SQL, and dashboards to generate actionable insights.
 
-<div style="text-align: center;"><img src="Bike_Share.jpg" alt="Example Image" width="200"/></div>
 
+
+### Strategic Insights for a Bike Share Company: The Cyclistic Bike-Share Project BI
+<div style="text-align: center;"><img src="CyclisticLogo.png" alt="Example Image" width="200"/></div>
+<details> <summary>Scenario (click here)</summary> 
 ---
 ### **Project Overview**
 This project aims to enhance Cyclistic’s strategic decision-making by analyzing rider behavior using Business Intelligence (BI) tools. The analysis follows a structured five-phase approach, covering data extraction and preparation, exploratory data analysis (EDA), key performance indicator (KPI) development, dashboard creation, and actionable insights. By leveraging trip data, user demographics, and ride patterns, this project provides a data-driven approach to optimize marketing strategies and increase member conversion rates.
